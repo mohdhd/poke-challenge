@@ -29,7 +29,7 @@ The script is divided into several functions:
 3. Install the required packages using pip
 
     ```sh
-    pip install -r requirements.tx
+    pip install -r requirements.txt
     ```
 4. Run The script!
 
